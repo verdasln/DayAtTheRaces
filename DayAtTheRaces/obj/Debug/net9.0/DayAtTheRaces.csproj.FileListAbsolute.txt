@@ -1,0 +1,14 @@
+/Users/verdaaslan/DayAtTheRaces/bin/Debug/net9.0/DayAtTheRaces
+/Users/verdaaslan/DayAtTheRaces/bin/Debug/net9.0/DayAtTheRaces.deps.json
+/Users/verdaaslan/DayAtTheRaces/bin/Debug/net9.0/DayAtTheRaces.runtimeconfig.json
+/Users/verdaaslan/DayAtTheRaces/bin/Debug/net9.0/DayAtTheRaces.dll
+/Users/verdaaslan/DayAtTheRaces/bin/Debug/net9.0/DayAtTheRaces.pdb
+/Users/verdaaslan/DayAtTheRaces/obj/Debug/net9.0/DayAtTheRaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verdaaslan/DayAtTheRaces/obj/Debug/net9.0/DayAtTheRaces.AssemblyInfoInputs.cache
+/Users/verdaaslan/DayAtTheRaces/obj/Debug/net9.0/DayAtTheRaces.AssemblyInfo.cs
+/Users/verdaaslan/DayAtTheRaces/obj/Debug/net9.0/DayAtTheRaces.csproj.CoreCompileInputs.cache
+/Users/verdaaslan/DayAtTheRaces/obj/Debug/net9.0/DayAtTheRaces.dll
+/Users/verdaaslan/DayAtTheRaces/obj/Debug/net9.0/refint/DayAtTheRaces.dll
+/Users/verdaaslan/DayAtTheRaces/obj/Debug/net9.0/DayAtTheRaces.pdb
+/Users/verdaaslan/DayAtTheRaces/obj/Debug/net9.0/DayAtTheRaces.genruntimeconfig.cache
+/Users/verdaaslan/DayAtTheRaces/obj/Debug/net9.0/ref/DayAtTheRaces.dll
